@@ -39,7 +39,7 @@ public class JeuDev {
                 break;
             }
             if (count == 10) {
-                System.out.println("Vous avez epuisé les 10 tentatives");
+                System.out.println("Vous avez epuisé les 10 tentatives. Perdu !");
                 break;
             }
         }
